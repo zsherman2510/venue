@@ -9,6 +9,7 @@ const Location = () => {
         height="500"
         frameBorder="0"
         allowFullScreen
+        title="tucson convention center"
       />
       <div className="location_tag">
         <div>Location</div>
